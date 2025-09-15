@@ -7,7 +7,7 @@ book_obj1 = Book(102,"Positive Thinker", 'Radhanath',True)
 book_obj2 = Book(103,"Positive philosophy", 'Radhanath',True)
 book_obj3 = Book(104,"Rich dad poor dad", 'Roburt Toru',True)
 book_obj4 = Book(105,"Sheser Kobitha", 'Robindronath Takur',True)
-book_obj_5 = Book(106,"Dil Chal", 'Indrajit Sing',True)
+book_obj_5 = Book(106,"Dil Chal", 'Shtandrojit Sing',True)
 book_obj_6 = Book(107,"Opekar Prohori", 'Shathyajit Chokroborty',True)
 
 # Insert book obj to the library class using entry_book
