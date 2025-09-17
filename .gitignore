@@ -1,0 +1,9 @@
+users
+products
+order
+fixtures
+api
+my_env/ 
+__pycache__/
+*.pyc
+db.sqlite3
